@@ -19,6 +19,26 @@ html {
   font-size: 40px;
   font-family: monospace;
 }
+.navbar {
+  overflow: hidden;
+  background-color:#606c38;
+}
+.navbar a{
+  font-family: monospace;
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+.navbar a.right{
+  float: right;
+}
+.navbar a:hover{
+  background-color: #dfefae0;
+  color: black;
+}
 /* adjust typography defaults */
 body {
   margin: 1rem;

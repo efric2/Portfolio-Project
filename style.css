@@ -9,7 +9,9 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
+h1{
+  font-family: monospace;
+}
 /* adjust typography defaults */
 body {
   margin: 1rem;

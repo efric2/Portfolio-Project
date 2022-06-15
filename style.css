@@ -9,7 +9,14 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-h1{
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #bc6c25 ;
+  color: white;
+}
+.header h1{
+  font-size: 40px;
   font-family: monospace;
 }
 /* adjust typography defaults */

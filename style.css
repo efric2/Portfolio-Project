@@ -12,30 +12,34 @@ html {
 .header {
   padding: 80px;
   text-align: center;
-  background: #bc6c25 ;
+  background: #4a4e69;
   color: white;
 }
 .header h1{
   font-size: 40px;
   font-family: monospace;
 }
-.navbar {
+.nav {
   overflow: hidden;
-  background-color:#606c38;
+  background-color:#9a8c98;
+  height:65px;
+  position: sticky;
+  top:0px;
 }
-.navbar a{
+.nav a{
   font-family: monospace;
-  float: left;
+  float: right;
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 21px 20px;
   text-decoration: none;
+
 }
-.navbar a.right{
+.nav a.right{
   float: right;
 }
-.navbar a:hover{
+.nav a:hover{
   background-color: #dfefae0;
   color: black;
 }
@@ -44,6 +48,7 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
+  height:200vh;
 }
 
 /* images and videos max out at full width */

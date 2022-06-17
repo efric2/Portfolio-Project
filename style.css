@@ -44,13 +44,17 @@ html {
   background-color: #dfefae0;
   color: black;
 }
+.opening {
+  display: flex;
+}
+
 /* adjust typography defaults */
 body {
   margin: 1rem;
   font-family: monospace;
   line-height: 1.5;
   height:200vh;
-  font-size: 20px;
+  font-size: 30px;
   background-color: #F2E9E4;
 }
 

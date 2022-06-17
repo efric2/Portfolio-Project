@@ -17,7 +17,7 @@ html {
 }
 .header h1{
   font-size: 40px;
-  font-family: monospace;
+  font-family: "Source Sans Pro", "Helvetica", sans-serif;
 }
 .nav {
   overflow: hidden;
@@ -46,7 +46,7 @@ html {
 /* adjust typography defaults */
 body {
   margin: 1rem;
-  font-family: sans-serif;
+  font-family: "Source Sans Pro", "Helvetica", sans-serif;
   line-height: 1.5;
   height:200vh;
   background-color: #F2E9E4;

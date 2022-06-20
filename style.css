@@ -48,7 +48,7 @@ html {
   top:0px;
 }
 .nav a{
-  font-family: monospace;
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
   float: right;
   display: block;
   color: white;
@@ -86,14 +86,14 @@ h2{
 }
 
 .prg {
-  font-family: monospace;
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
   line-height: 1.5;
   font-size: 18px;
 }
 /* adjust typography defaults */
 body {
   margin: 1rem;
-  font-family: monospace;
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
   line-height: 1.5;
   height:500vh;
   font-size: 28px;

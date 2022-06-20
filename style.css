@@ -72,6 +72,19 @@ html {
 h2{
   text-align: center;
 }
+
+.middle {
+  width:50vw;
+  overflow:hidden;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.embed{
+  overflow:scroll;
+}
+
+
 /* adjust typography defaults */
 body {
   margin: 1rem;

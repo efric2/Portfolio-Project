@@ -74,7 +74,7 @@ h2{
 }
 
 .middle {
-  width:50vw;
+  width:70vw;
   overflow:hidden;
   margin-left:auto;
   margin-right:auto;
@@ -82,15 +82,20 @@ h2{
 
 .embed{
   overflow:scroll;
+  z-index:3;
 }
 
-
+.prg {
+  font-family: monospace;
+  line-height: 1.5;
+  font-size: 18px;
+}
 /* adjust typography defaults */
 body {
   margin: 1rem;
   font-family: monospace;
   line-height: 1.5;
-  height:200vh;
+  height:500vh;
   font-size: 28px;
   background-color: #F2E9E4;
 }

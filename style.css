@@ -85,6 +85,10 @@ h2{
   overflow:scroll;
   z-index:3;
 }
+.LCS{
+  width: 70vw;
+  height:50vw;
+}
 
 .prg {
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;

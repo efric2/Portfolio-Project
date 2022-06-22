@@ -1,6 +1,4 @@
-# Links 
-https://www.w3schools.com/howto/howto_make_a_website.asp
-https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4
-https://www.gradient-animator.com/
-
+# Erica F. Portfolio Project
+Welcome to my portfolio! Feel free to take a look around and explore my code!
+Last edited: June 22 2022
 

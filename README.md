@@ -1,6 +1,6 @@
-# Links 
-https://www.w3schools.com/howto/howto_make_a_website.asp
-https://coolors.co/palette/22223b-4a4e69-9a8c98-c9ada7-f2e9e4
-https://www.gradient-animator.com/
+# Hello!
+Welcome to my portfolio project website :) Feel free to explore as much as you'd like. 
+
+Last Edit: June 22 2022
 
 
